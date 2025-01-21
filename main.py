@@ -1,7 +1,7 @@
 import json
 import os
 import discord
-from cogs.bot_patata import MyBot
+from cogs.bot_discord import MyBot
 
 
 def main():
